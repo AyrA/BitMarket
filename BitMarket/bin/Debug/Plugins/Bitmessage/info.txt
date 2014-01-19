@@ -1,0 +1,4 @@
+Name=PyBitmessage API Server
+Desc=Provides an Interface to the PyBitmessage API to integrate BitMarket into Bitmessage
+File=Bitmessage.dll
+Type=GenericServer,GenericProcessor

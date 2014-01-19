@@ -1,0 +1,4 @@
+Name=Demo Plugin in source form
+Desc=Servers as demonstration and does not processes or generates messages.
+File=Demo.cs
+Type=GenericServer

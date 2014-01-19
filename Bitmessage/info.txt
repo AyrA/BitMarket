@@ -1,0 +1,4 @@
+﻿Name=PyBitmessage API & MySQL Server
+Desc=Provides an Interface to the PyBitmessage API to integrate BitMarket into Bitmessage. Includes MySQL Message Processor
+File=Bitmessage.dll
+Type=GenericServer,GenericProcessor
