@@ -13,6 +13,14 @@ namespace Demo
         public event GenericMessageReceivedHandler GenericMessageReceived;
         public event GenericServerLogHandler GenericServerLog;
 
+        public bool IsRunning
+        {
+            get
+            {
+                return true;
+            }
+        }
+
         public Demo()
         {
             GenericMessageReceived += new GenericMessageReceivedHandler(DemoServer_GenericMessageReceived);
